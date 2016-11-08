@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "531193612769",
+    "firebase_url": "https://geneve-projects.firebaseio.com",
+    "project_id": "geneve-projects",
+    "storage_bucket": "geneve-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531193612769:android:489a6816815d0826",
+        "android_client_info": {
+          "package_name": "com.geneve.english"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531193612769-3ae907mak4nr5dkfgcmt1qnrdq6vgohn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnaio0J8bVHZ5qEVeLln8c8veSRuRqjSM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
